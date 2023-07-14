@@ -1,2 +1,2 @@
-{"version":"1.2.8","db_type":"idb","start_time":"2023-05-27T18:58:09.542Z","db_info":{"doc_count":0,"update_seq":0,"idb_attachment_format":"binary","db_name":"skills","auto_compaction":false,"adapter":"idb"}}
+{"version":"1.2.8","db_type":"idb","start_time":"2023-07-14T21:24:54.915Z","db_info":{"doc_count":0,"update_seq":0,"idb_attachment_format":"binary","db_name":"skills","auto_compaction":false,"adapter":"idb"}}
 {"seq":0}
